@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/poster.jpg" alt="PQC Radar" width="70%">
+  <img src="poster.jpg" alt="PQC Radar" width="70%">
 </p>
 
 # PQC Radar
